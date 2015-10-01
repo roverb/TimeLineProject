@@ -1,1 +1,58 @@
+<!DOCTYPE html!>
+<head>
+<link href="" type="text/css" rel="stylesheet">     
+<title>tijdbalk mobiele telefoon</title>
+</head>
+
+<body>
+<h2>Tijdbalk van de Mobiele telefoon</h2>
+<p></p>
+<ul id='timeline'>
+  <li class='work'>
+    <input class='radio' id='work5' name='works' type='radio' checked>
+    <div class="relative">
+      <label for='work5'>The Great Mushroom War</label>
+      <span class='date'>2047</span>
+      <span class='circle'></span>
+    </div>
+    <div class='content'>
+      <p>
+
+      </p>
+    </div>
+  </li>
+  <li class='work'>
+    <input class='radio' id='work4' name='works' type='radio'>
+    <div class="relative">
+      <label for='work4'>Rainicorn Dog War</label>
+      <span class='date'>11 May 2013</span>
+      <span class='circle'></span>
+    </div>
+    <div class='content'>
+      <p>
+
+      </p>
+    </div>
+  </li>
+  <li class='work'>
+    <input class='radio' id='work3' name='works' type='radio'>
+    <div class="relative">
+      <label for='work3'>Lorem ipsum dolor sit amet</label>
+      <span class='date'>10 May 2013</span>
+      <span class='circle'></span>
+    </div>
+    <div class='content'>
+      <p>
+
+      </p>
+    </div>
+  </li>
+  <li class='work'>
+    <input class='radio' id='work2' name='works' type='radio'>
+    <div class="relative">
+      <label for='work2'>Lorem ipsum dolor sit amet</label>
+      <span class='date'>09 May 2013</span>
+      <span class='circle'></span>
+    </div>
+    <div class='content'>
 
